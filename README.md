@@ -8,7 +8,7 @@
 
 ### 🚀 À propos de moi
 
-- 🎓 Étudiant en **Data Science & Intelligence Artificielle** à l'**ESMT Dakar**, Sénégal
+- 🎓 Éleve ingenieur en **Data Science & Intelligence Artificielle** à l'**ESMT Dakar**, Sénégal
 - ⚡ Titulaire d'une **Licence en Physique Énergétique** (Université Thomas Sankara)
 - 🤖 Passionné par les solutions IA adaptées aux contextes africains et l'innovation panafricaine
 - 🔭 Actuellement en stage ML chez **Codveda Technologies** (preprocessing, régression, KNN, arbres de décision, K-Means, Random Forest, SVM, réseaux de neurones)
