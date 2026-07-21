@@ -1,6 +1,6 @@
 # Salut, moi c'est DJIGUIMDE Oumaro Titans 👋
 
-### Ingénieur junior en Data Science & IA à l'ESMT Dakar 🇸🇳
+### Ingénieur junior en Data Science & IA diplomé de l'ESMT Dakar 🇸🇳
 
 ![Data Science](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
