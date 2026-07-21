@@ -1,4 +1,4 @@
-# Salut, moi c'est Titano 👋
+# Salut, moi c'est DJIGUIMDE Oumaro Titans 👋
 
 ### Étudiant ingénieur en Data Science & IA à l'ESMT Dakar 🇸🇳
 
