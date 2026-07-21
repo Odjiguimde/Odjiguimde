@@ -11,8 +11,8 @@
 - 🎓 Éleve ingenieur en **Data Science & Intelligence Artificielle** à l'**ESMT Dakar**, Sénégal
 - ⚡ Titulaire d'une **Licence en Physique Énergétique** (Université Thomas Sankara)
 - 🤖 Passionné par les solutions IA adaptées aux contextes africains et l'innovation panafricaine
-- 🔭 Actuellement en stage ML chez **Codveda Technologies** (preprocessing, régression, KNN, arbres de décision, K-Means, Random Forest, SVM, réseaux de neurones)
-- 📊 Travaille sur un **mémoire de master** : une application Streamlit de classification de la qualité de l'air à Dakar par apprentissage semi-supervisé (Self-Training & Co-Training)
+- 🔭 Ancien Stagiaire en ML chez **Codveda Technologies** (preprocessing, régression, KNN, arbres de décision, K-Means, Random Forest, SVM, réseaux de neurones)
+- 📊 Application Streamlit de classification de la qualité de l'air à Dakar par apprentissage semi-supervisé (Self-Training & Co-Training)
 - 🏆 A participé à **DataTour 2026**, compétition de détection de fraude Mobile Money (PR-AUC), avec un pipeline CatBoost + LightGBM + Optuna
 - 💡 A conçu **FasoAgri Vision AI + AquaBarrage**, un projet d'infrastructure numérique rurale (IA, LoRa, edge computing) présenté au Prix du Jeune Inventeur du Faso 2026
 - 📫 Me contacter : oumarodjiguimde1@gmail.com
@@ -49,7 +49,7 @@
 
 | Projet | Description |
 |---|---|
-| 🌫️ **Air Quality SSL (Mémoire de Master)** | App Streamlit de classification de la qualité de l'air à Dakar par apprentissage semi-supervisé (données OpenAQ), hiérarchie de performance Baseline < Self-Training < Co-Training |
+| 🌫️ **Air Quality SSL** | App Streamlit de classification de la qualité de l'air à Dakar par apprentissage semi-supervisé (données OpenAQ), hiérarchie de performance Baseline < Self-Training < Co-Training |
 | 💳 **DataTour 2026 — Fraud Detection** | Détection de fraude Mobile Money sur ~1,29M lignes, ensembling CatBoost + LightGBM optimisé avec Optuna |
 | 🚲 **Citibike NYC — PySpark** | Pipeline Big Data sur les trajets Citibike 2020, résolution de conflits de schémas de données |
 | 🌾 **FasoAgri Vision AI + AquaBarrage** | Infrastructure rurale hors-ligne combinant surveillance agricole par IA, gestion prédictive de barrage, réseaux LoRa et interfaces vocales multilingues (Mooré, Dioula) |
