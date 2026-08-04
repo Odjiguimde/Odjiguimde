@@ -52,10 +52,16 @@
 | 🌫️ **Air Quality SSL** | App Streamlit de classification de la qualité de l'air à Dakar par apprentissage semi-supervisé (données OpenAQ), hiérarchie de performance Baseline < Self-Training < Co-Training |
 | 💳 **DataTour 2026 — Fraud Detection** | Détection de fraude Mobile Money sur ~1,29M lignes, ensembling CatBoost + LightGBM optimisé avec Optuna |
 | 🚲 **Citibike NYC — PySpark** | Pipeline Big Data sur les trajets Citibike 2020, résolution de conflits de schémas de données |
+| 🏠 **Régression — Prix Immobilier à Dakar** | Étude de cas de prédiction du prix de l'immobilier à Dakar par régression (modélisation, évaluation), avec rapport détaillé et présentation PowerPoint associés |
+| 🌸 **Classification Fleurs Iris — Keras vs PyTorch** | Comparaison de deux approches de Deep Learning (TensorFlow/Keras et PyTorch) pour la classification des espèces de fleurs Iris : prétraitement, visualisation, modélisation et évaluation |
+| 📊 **EDA Marketing Campaign** | Analyse exploratoire complète de campagnes marketing client (nettoyage, feature engineering, segments, performance des campagnes) avec notebook + dashboard Streamlit interactif |
+| 🧪 **A/B Testing — Landing Page Optimization** | Expérimentation contrôlée comparant deux versions d'une landing page : tests statistiques (Chi², Z-test, t-test, Mann-Whitney), bootstrap, analyse segmentée et rapport de décision |
+| 🧩 **Customer Segmentation — Clustering Lab** | Segmentation client par clustering non-supervisé (KMeans, CAH, DBSCAN) avec réduction de dimensions (PCA, t-SNE), visualisations 2D/3D et métriques de qualité |
+| 📉 **Modélisation Prédictive du Churn Client** | Prédiction du churn client avec 7 modèles ML (Logistic Regression, KNN, Random Forest, XGBoost, LightGBM...), dashboard Streamlit + API Flask, déploiement Docker |
+| ₿ **Bitcoin Time Series Forecasting** | Prévision multi-modèles (ARIMA, SARIMA, Prophet, XGBoost, LSTM) sur données historiques Bitcoin, avec API FastAPI, dashboard Streamlit et déploiement Docker/Kubernetes |
 | 🌾 **FasoAgri Vision AI + AquaBarrage** | Infrastructure rurale hors-ligne combinant surveillance agricole par IA, gestion prédictive de barrage, réseaux LoRa et interfaces vocales multilingues (Mooré, Dioula) |
 | 📱 **Gestionnaire de Smartphones** | Application web PHP/MySQL de gestion de parc de smartphones avec système de rôles utilisateurs |
 | 🌡️ **Surveillance Température/Humidité** | Projet embarqué ATmega2560 + DHT11 avec gestion de seuils et alertes |
-
 ---
 
 ### 📊 Stats GitHub
