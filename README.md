@@ -15,7 +15,7 @@
 - 📊 Application Streamlit de classification de la qualité de l'air à Dakar par apprentissage semi-supervisé (Self-Training & Co-Training)
 - 🏆 A participé à **DataTour 2026**, compétition de détection de fraude Mobile Money (PR-AUC), avec un pipeline CatBoost + LightGBM + Optuna
 - 💡 A conçu **FasoAgri Vision AI + AquaBarrage**, un projet d'infrastructure numérique rurale (IA, LoRa, edge computing) présenté au Prix du Jeune Inventeur du Faso 2026
-- 📫 Me contacter : oumarodjiguimde1@gmail.com
+- 📫 Me contacter : oumarodjiguimde1@gmail.com.
 
 ---
 
