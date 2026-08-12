@@ -1,4 +1,4 @@
-# Salut, moi c'est DJIGUIMDE Oumaro Titans 👋
+# Salut, moi c'est DJIGUIMDE Oumaro Titans. 👋
 
 ### Ingénieur junior en Data Science & IA de l'ESMT Dakar 🇸🇳
 
